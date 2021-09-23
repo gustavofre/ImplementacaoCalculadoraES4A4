@@ -20,7 +20,7 @@ int main () {
 		printf ("\nDigite outro numero inteiro:\n");
 		scanf ("%i", &numero2),
 		
-		fflush (stdin);
+		fflush (stdin );
 		 
 		printf ("\nQual operacao deseja executar? +, -, /, * ou %:\n");
 		scanf ("%c", &op);
