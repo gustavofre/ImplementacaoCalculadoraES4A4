@@ -28,9 +28,20 @@ int main () {
 		if (op == '+') {
 			resultado = numero1 + numero2;
 			printf ("\n\nO Resultado e: %i", resultado);
-		}else {
+		} 
+		else if (op == '-') {
+		resultado = numero1 - numero2;
+		printf ("\n%i", resultado);
+		}
+		else if (op == '/') {
+		resultado = numero1 / numero2;
+		printf ("\n%i", resultado);
+		}
+		else {
 			printf ("\noperacao nao permitida");		
 		}
+
+
 		
 		
 		printf("\n\nDigite 1 para continuar\n");
