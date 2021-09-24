@@ -18,9 +18,9 @@ Aconselhamos a ter uma IDE da linguagem, o time utilizou o DEV C++, que é poss�
 ### Contribuição
 TODOS os membros do grupo contribuiram para a criação da calculadora, foi realizada uma reunião rápida em formado de uma "planning" para verficiar os reponsáveis, prazos e critérios de aceite. 
 O grupo possui 3 membros e utilizaram as respectivas ferramentas 
-- GABRIEL DE MORAIS RUIZ [VSCODE WEB COM GITHUB] (https://github.dev/github/dev)
+- GABRIEL DE MORAIS RUIZ [VSCODE WEB COM GITHUB](https://github.dev/github/dev)
 - GUSTAVO LOURENÇO DE FREITAS - [DEV C++](https://www.bloodshed.net/)
-- VINICIUS ALMEIDA SOARES - [VSCODE WEB COM GITHUB] (https://github.dev/github/dev)
+- VINICIUS ALMEIDA SOARES - [VSCODE WEB COM GITHUB](https://github.dev/github/dev)
 
 ### Execução
 Para executar a calculadora, primeiramente é necessário ter uma IDE que consiga compilar o código e gerar um executável dele. Com isso feito, clica no executável, um arquivo .exe - calculadora.exe - os seguintes comandos que aparecerão são auto explicatórios e cada comando é necessário apertar o enter para seguir para o próximo comando. 
