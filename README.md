@@ -17,7 +17,7 @@ Aconselhamos a ter uma IDE da linguagem, o time utilizou o DEV C++, que é poss�
 
 ### Contribuição
 TODOS os membros do grupo contribuiram para a criação da calculadora, foi realizada uma reunião rápida em formado de uma "planning" para verficiar os reponsáveis, prazos e critérios de aceite. 
-O grupos possui 3 membros e utilizaram as respectivas ferramentas 
-• GABRIEL DE MORAIS RUIZ
-• GUSTAVO LOURENÇO DE FREITAS - [DEV C++](https://www.bloodshed.net/)
-• VINICIUS ALMEIDA SOARES
+O grupo possui 3 membros e utilizaram as respectivas ferramentas 
+- GABRIEL DE MORAIS RUIZ 
+- GUSTAVO LOURENÇO DE FREITAS - [DEV C++](https://www.bloodshed.net/)
+- VINICIUS ALMEIDA SOARES
