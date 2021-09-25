@@ -12,8 +12,8 @@
 
 ### Tecnologias
 
-Utilizamos a linguagem de programação [C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160), pois já estudamos ela durante todo o primeiro ano da faculdade e foi na qual todos do grupos se sentiram confortáveis a realizar a atividade 
-Aconselhamos a ter uma IDE da linguagem, o time utilizou o DEV C++, que é possível compilar o código e verificar o executável que cria para rodar o código.  
+Utilizamos a linguagem de programação [C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160), pois já estudamos ela durante todo o primeiro ano da faculdade e foi na qual todos do grupo se sentiram confortáveis a realizar a atividade.
+Aconselhamos ter uma IDE da linguagem, o time utilizou o DEV C++, que é possível compilar o código e verificar o executável que cria para rodar o código.  
 
 ### Contribuição
 TODOS os membros do grupo contribuiram para a criação da calculadora, foi realizada uma reunião rápida em formado de uma "planning" para verficiar os reponsáveis, prazos e critérios de aceite. 
@@ -23,7 +23,7 @@ O grupo possui 3 membros e utilizaram as respectivas ferramentas
 - VINICIUS ALMEIDA SOARES - [VSCODE WEB COM GITHUB](https://github.dev/github/dev)
 
 ### Execução
-Para executar a calculadora, primeiramente é necessário ter uma IDE que consiga compilar o código e gerar um executável dele. Com isso feito, clica no executável, um arquivo .exe - calculadora.exe - os seguintes comandos que aparecerão são auto explicatórios e cada comando é necessário apertar o enter para seguir para o próximo comando. 
+Para executar a calculadora, primeiramente é necessário ter uma IDE que consiga compilar o código e gerar um executável dele, novamente, aconselhamos o [DEV C++](https://www.bloodshed.net/) com o código compilado, clicar no executável, um arquivo .exe - calculadora.exe - os seguintes comandos que aparecerão são autoexplicativo e cada comando é necessário apertar o enter para seguir para o próximo comando. 
 - Digite um número inteiro
 - Digite outro número inteiro
 - Qual operacao deseja executar? +, -, /, * ou %:
