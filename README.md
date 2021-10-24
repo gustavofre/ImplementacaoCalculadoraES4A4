@@ -28,4 +28,4 @@ Para executar a calculadora, primeiramente é necessário ter uma IDE que consig
 - Digite outro número inteiro
 - Qual operacao deseja executar? +, -, /, * ou %:
 - O resultado é: 
-- Digite 1 para continuar (Se desejar parar a execução digitar outro número e apertar o enter) 
+- Digite 1 para continuar com o resultado da conta (Se desejar resetar a calculadora digitar 2) 
