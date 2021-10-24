@@ -9,14 +9,14 @@ int calcul2(int numero1){
 		int numero2, resultado, continuar;
 		char op;		
 
-	printf("O primeiro número é: %i\n", numero1);
+	printf("O primeiro nï¿½mero ï¿½: %i\n", numero1);
 
-	printf ("\nDigite outro número inteiro:\n");
+	printf ("\nDigite outro nï¿½mero inteiro:\n");
 		scanf ("%i", &numero2),
 		
 		fflush (stdin);
 		 
-		printf ("\nQual operação deseja executar? +, -, /, * ou %%:\n");
+		printf ("\nQual operaï¿½ï¿½o deseja executar? +, -, /, * ou %%:\n");
 		scanf ("%c", &op);
 		
 		if (op == '+') {
@@ -27,12 +27,20 @@ int calcul2(int numero1){
 		resultado = numero1 - numero2;
 		printf ("\n%i", resultado);
 		}
+		else if (op == '/') {
+		resultado = numero1 / numero2;
+		printf ("\n%i", resultado);
+		}
+		else if (op == '*') {
+		resultado = numero1 * numero2;
+		printf ("\n%i", resultado);
+		}
 	
 		else {
-			printf ("\noperação não permitida");		
+			printf ("\noperaï¿½ï¿½o nï¿½o permitida");		
 		}
 
-		printf("\n\nDigite 1 para continuar com o mesmo número ou 2 para resetar o cálculo\n");
+		printf("\n\nDigite 1 para continuar com o mesmo nï¿½mero ou 2 para resetar o cï¿½lculo\n");
 		scanf ("%i", &continuar);	
 		system("cls");	
 		
@@ -52,15 +60,15 @@ int main () {
 int numero1, numero2, resultado, continuar;
 		char op;
 
-		printf ("Digite um número:\n");
+		printf ("Digite um nï¿½mero:\n");
 		scanf ("%i", &numero1),
 
-		printf ("\nDigite outro número inteiro:\n");
+		printf ("\nDigite outro nï¿½mero inteiro:\n");
 		scanf ("%i", &numero2),
 		
 		fflush (stdin );
 		 
-		printf ("\nQual operação deseja executar? +, -, /, * ou %%:\n");
+		printf ("\nQual operaï¿½ï¿½o deseja executar? +, -, /, * ou %%:\n");
 		scanf ("%c", &op);
 		
 		if (op == '+') {
@@ -71,11 +79,19 @@ int numero1, numero2, resultado, continuar;
 		resultado = numero1 - numero2;
 		printf ("\n%i", resultado);
 		}
+		else if (op == '/') {
+		resultado = numero1 / numero2;
+		printf ("\n%i", resultado);
+		}
+		else if (op == '*') {
+		resultado = numero1 * numero2;
+		printf ("\n%i", resultado);
+		}
 	
 		else {
-			printf ("\noperação não permitida");		
+			printf ("\noperaï¿½ï¿½o nï¿½o permitida");		
 		}
-		printf("\n\nDigite 1 para continuar com o mesmo número ou 2 para resetar o cálculo\n");
+		printf("\n\nDigite 1 para continuar com o mesmo nï¿½mero ou 2 para resetar o cï¿½lculo\n");
 		scanf ("%i", &continuar);	
 		system("cls");	
 		
