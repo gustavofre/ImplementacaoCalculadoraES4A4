@@ -35,6 +35,10 @@ int calcul2(int numero1){
 		resultado = numero1 * numero2;
 		printf ("\n%i", resultado);
 		}
+		else if (op == '%') {
+		resultado = numero1 % numero2;
+		printf ("\n%i", resultado);
+		}
 	
 		else {
 			printf ("\nopera��o n�o permitida");		
